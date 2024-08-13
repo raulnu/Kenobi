@@ -1,4 +1,4 @@
-This room will cover accessing a Samba share, manipulating a vulnerable version of proftpd to gain initial access and escalate your privileges to root via an SUID binary.
+This room will cover accessing a Samba share, manipulating a vulnerable version of proftpd to gain initial access and escalate privileges to root via an SUID binary.
 
 Machine ip: 10.10.205.10
 
